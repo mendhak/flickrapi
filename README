@@ -1,1 +1,1 @@
-This library contains basic calls to access a few Flickr API methods, as needed by flickrsignature and flickrbackground.
+This common library contains basic calls to access a few Flickr API methods, as needed by flickrsignature and flickrbackground.
